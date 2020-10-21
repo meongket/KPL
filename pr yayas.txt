@@ -1,0 +1,3 @@
+Pr yayas :
+-bikin daftar alat + instrumen
+ps : lihat contohnya di daftar_bahan.php yaa

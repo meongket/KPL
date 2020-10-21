@@ -1,0 +1,11 @@
+cara membangun web :
+
+-buat database beserta 
+-buat db_login.php : kegunaan file ini bisa dilihat dalam deskripsi di dalam file
+-buat login.php untuk page login
+-biasanya satu file diperuntukkan untuk satu page(halaman) di web
+-beda variabel sama session itu kalo variabel cuman bisa dipake satu file, tapi kalo session beda file juga bisa asal dia masih kondisi login
+-include = untuk menyertakan file, tp kalo file nya ga ada, page yang utama masih bisa jalan, 
+-include_once = include sekali aja walaupun ditulis berkali-kali, yang di pake include_once yg paling awal
+-require = untuk menyertakan file, tp kalo file nya ga ada, page yang utama udah ga bisa jalan, 
+-require_once = require sekali aja walaupun ditulis berkali-kali, yang di pake require_once yg paling awal

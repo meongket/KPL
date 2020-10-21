@@ -1,0 +1,8 @@
+pr ku :
+-cek penulisan sidebar sitasi,siibif, sikado
+-bikin coba.php buat search kolom
+
+tanya :
+-tampilan di dashboard apa aja? sisa barang,alat, dll
+-ditampilin di lab mana ga? iya tampilin di atas sebelah tanggal
+-kalo buat mhs baru itu labnya gimana? yg bisa login cmn yg udh punya lab
